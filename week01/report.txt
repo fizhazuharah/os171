@@ -1,0 +1,2 @@
+This week I learn about  clone, pull, push, commit github repository on badak server and also what git add and status is. 
+I also learn how to make file in folder directly.
