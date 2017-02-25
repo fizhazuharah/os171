@@ -1,0 +1,7 @@
+w02-170221-11-LR-Learn what protection & security is and the differences, From: chapter 13&14 slide
+w02-170221-13-LR-About: Protection & Security, From: Lecturer
+w02-170223-13-LR-About: C language
+w02-170223-13-PS-About: Privacy Matters, Encryption, and Digital Signature
+w02-170223-14-PS-C language exercise
+w02-170224-18-PS-Continue lab session
+w02-170225-10-PS-About: Encryption & Decryption
