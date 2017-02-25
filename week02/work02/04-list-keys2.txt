@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/h/hafizha.zuharah/.gnupg/pubring.gpg
+-------------------------------------------------------------
+pub   4096R/1B3D99F3 2017-02-23 [expires: 2017-08-22]
+uid                  Hafizha Zuharah Az Zahra (learn OS harder!) <hafizha.zuharah@ui.ac.id>
+sub   4096R/5CC6D07A 2017-02-23 [expires: 2017-08-22]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+

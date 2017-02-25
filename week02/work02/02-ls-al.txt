@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 2 hafizha.zuharah StafCS 4096 Feb 23 13:31 .
+drwxr-xr-x 3 hafizha.zuharah StafCS 4096 Feb 23 13:07 ..
+-rw-r--r-- 1 hafizha.zuharah StafCS 1621 Feb 23 04:06 00-toc.txt
+-rw-r--r-- 1 hafizha.zuharah StafCS 3158 Feb 23 04:06 01-public-osteam.txt
+-rw-r--r-- 1 hafizha.zuharah StafCS    0 Feb 23 13:31 02-ls-al.txt
