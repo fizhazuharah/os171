@@ -1,0 +1,12 @@
+ww03-160228-11-LR-About: BIOS & BOOTING, From: www.engineersgarage.com/tutorials/how-computer-pc-boots-up
+ww03-160228-11-LR-About: BIOS & BOOTING, From: www.engineersgarage.com/tutorials/how-computer-pc-boots-up
+ww03-160228-12-LR-About: How to start the operating system, From: github.com/UI-FASILKOM-OS/os171/blob/master/OS171/os03-171.pdf
+ww03-160228-13-LR-About: Firmware and Boot Loader, From: Lecturer
+ww03-160228-13-LR-About: Firmware and Boot Loader, From: Lecturer
+ww03-160228-14-LR-About: Init, Upstart, and Systemd, From: Lecturer
+ww03-160228-16-PS-Lab Session: What boot is all about
+ww03-160228-17-PS-Lab Session: What boot is all about
+ww03-160302-12-LR-About: BIOS and UEFI, From: https://www.youtube.com/watch?v=zIYkol851dU
+ww03-160302-15-16-LR-About: Linux Bootloaders (GRUB & GRUB2), From: https://www.youtube.com/watch?v=ncWjbEbPJW4
+ww03-160302-16-PS-Lab Session: Startup Script
+ww03-160304-08-PS-About: Init
