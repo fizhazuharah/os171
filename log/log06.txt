@@ -1,0 +1,15 @@
+w06-170406-13-LR-About: Processes & Threads, FROM: Lecturer
+w06-170406-13-LR-About: Processes & Threads, FROM: Lecturer
+w06-170406-14-LR-Watching demo from lecturer about fork
+w06-170408-09-LR-About: Processes (Process creation, scheduling, fork, wait, etc), FROM: OSC2E-ch03
+w06-170408-09-LR-About: Processes (Process creation, scheduling, fork, wait, etc), FROM: OSC2E-ch03
+w06-170408-10-LR-About: Threads (Benefits, multithreadings, Signal Handlings, Scheduling, etc), FROM: OSC2e-ch04
+w06-170411-10-PS-Trying demos week06-CnFork (00-06) and learning it
+w06-170411-10-PS-Trying demos week06-CnFork (07-08) and learning it
+w06-170411-11-PS-Trying demos week06-CnFork (08-10) and learning it
+w06-170411-11-PS-Trying demos week06-CnFork (10-11) and learning it
+w06-170411-12-DS-Discuss about fork from demo
+w06-170411-14-PS-Lab session of week06 task
+w06-170411-14-PS-Lab session of week06 task
+w06-170414-18-PS-Lab session of week06 task
+w06-170413-23-PS-Lab session of week06 task
