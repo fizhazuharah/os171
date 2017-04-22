@@ -1,0 +1,19 @@
+w07-170413-13-LR-About: Synchronization, FROM: Lecturer
+w07-170413-13-LR-About: Synchronization, FROM: Lecturer
+w07-170413-14-LR-About: Synchronization, FROM: Lecturer
+w07-170413-15-LR-Learning demo week07-sync-thread 00-02
+w07-170413-15-LR-Learning demo week07-sync-thread 00-02
+w07-170413-16-PS-Trying demo week07-sync-thread 00-02
+w07-170413-17-PS-Trying demo week07-sync-thread 00-02
+w07-170417-12-LR-About: Process Synchronization, From: BahanAjarLama-week04
+w07-170417-12-LR-About: Process Synchronization, From: BahanAjarLama-week04
+w07-170417-14-DS-Discuss demo readwriter,alu,balap
+w07-170417-14-DS-Discuss demo readwriter,alu,balap
+w07-170418-11-LR-Learning demo sudokuSV,mainDadu
+w07-170418-11-DS-Discuss demo sudokuSV,mainDadu
+w07-170418-12-DS-Discuss demo sudokuSV,mainDadu
+w07-170421-09-PS-Lab session week07
+w07-170421-09-DS-Discuss demo 99-myutils
+w07-170421-10-PS-Lab session week07
+w07-170422-08-PS-Lab session week07
+w07-170422-08-PS-Lab session week07
